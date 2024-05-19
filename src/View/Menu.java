@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public abstract class Menu {
+public abstract class Menu extends ArrayList<String> {
 
     protected String title;
     protected List<String> services = new ArrayList<>();
@@ -39,5 +39,9 @@ public abstract class Menu {
             execute(choice);
         } while (choice != services.size());
 
+    }
+
+    public int getUserChoice() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
 }

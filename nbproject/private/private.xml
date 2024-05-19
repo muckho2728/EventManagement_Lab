@@ -5,7 +5,9 @@
         <group>
             <file>file:/C:/Users/admin/OneDrive/Documents/NetBeansProjects/EventManagement/src/Model/ListEvent.java</file>
             <file>file:/C:/Users/admin/OneDrive/Documents/NetBeansProjects/EventManagement/src/Model/Event.java</file>
-            <file>file:/C:/Users/admin/OneDrive/Documents/NetBeansProjects/EventManagement/src/Controller/EventController.java</file>
+            <file>file:/C:/Users/admin/OneDrive/Documents/NetBeansProjects/EventManagement/src/View/EventView.java</file>
+            <file>file:/C:/Users/admin/OneDrive/Documents/NetBeansProjects/EventManagement/src/View/Main.java</file>
+            <file>file:/C:/Users/admin/OneDrive/Documents/NetBeansProjects/EventManagement/src/View/Menu.java</file>
         </group>
     </open-files>
 </project-private>
